@@ -19,7 +19,7 @@ Follow the following steps to run this project:
 on the root folder (bikex) run `npm install`. This will install all the packages and dependencies used for this project.
 
 # Step 2: Install node modules again on the client (frontend) folder
-You will still need to install another node_modules on the clientside. Therefore, go to or cd into bikeshop folder and run `npm install`
+You will still need to install another node_modules on the clientside. Therefore, go to or cd into 'bikeshop folder' and run `npm install`
 
 # Step 3:  Start the Server
 Now that you have installed all the necessary modules, packages, and dependencies, it is time to start the server and run the project.
@@ -33,7 +33,7 @@ Go  back  or cd  into the bikeshop folder and run the following command:
 `npm  start`
 
 Note:  Both backend and frontend must be running at the same time on different servers.
-An alternative to Step 3 and 4 is to run `npm run dev` on the root folder to start both frontend and backend up at the same time.
+An alternative to Step 3 and 4 is to run `npm run dev` on the root folder (Bikex) to start both frontend and backend up at the same time.
 
 # Step 5: Visit Your Browser
 If all works well, the project will start on [http://localhost:3000] (give it time)
